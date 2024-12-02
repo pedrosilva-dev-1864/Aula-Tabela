@@ -1,0 +1,17 @@
+th, td{
+    border: 1px solid black;
+}
+tfoot{
+    background-color: aquamarine;
+    color: red;
+}
+tbody{
+background-color: #626378;
+color: yellow;
+}
+
+thead{
+    background-color: blue;
+    color: aliceblue;
+    }
+    
